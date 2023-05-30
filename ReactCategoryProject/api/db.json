@@ -1,0 +1,56 @@
+{
+    "peoples": [
+      {
+        "id": 1,
+        "groupId": 2,
+        "Name": "Fatih",
+        "Surname":"Sülün",   
+        "image":"images/product.jpg"  
+      },
+      {
+        "id": 2,
+        "groupId": 2,
+        "Name": "Hüseyin",
+        "Surname":"Toprak",   
+        "image":"images/product.jpg"   
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "Name": "Necati",
+        "Surname":"Kırılmış",   
+        "image":"images/product.jpg"   
+      },
+      {
+        "id": 4,
+        "groupId": 3,
+        "Name": "Resul",
+        "Surname":"Pala",   
+        "image":"images/product.jpg"  
+      },
+      {
+        "id": 5,
+        "groupId": 1,
+        "Name": "Mikail",
+        "Surname":"Karabacak",   
+        "image":"images/product.jpg"   
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "Name": "Bankacılık"
+       
+      },
+      {
+        "id": 2,
+        "Name": "Bilişim"
+       
+      },
+      {
+        "id": 3,
+        "Name": "Eğitim"
+       
+      }  
+    ]
+  }
